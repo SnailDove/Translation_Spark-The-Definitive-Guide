@@ -44,7 +44,7 @@ Part IV. Production Application
 Part V. Streaming
 
 - [翻译：《Spark权威指南》第20章：流处理基础](https://snaildove.github.io/2019/06/02/Chapter20_StreamProcessingFundamentals(SparkTheDefinitiveGuide)_online/)
-- [翻译：《Spark权威指南》第21章: 结构化流基础](https://snaildove.github.io/2019/06/28/Chapter21_StructuredStreamingBasics(SparkTheDefinitiveGuide)_online/)
+- [翻译：《Spark权威指南》第21章：结构化流基础](https://snaildove.github.io/2019/06/28/Chapter21_StructuredStreamingBasics(SparkTheDefinitiveGuide)_online/)
 - [翻译：《Spark权威指南》第22章：事件时间和状态处理](https://snaildove.github.io/2019/07/28/Chapter22_EventTimeAndStatefulProcessing(SparkTheDefinitiveGuide)_online/)
 - [翻译：《Spark权威指南》第23章：生产环境中的结构化流](https://snaildove.github.io/2019/08/10/Chapter23_StructuredStreamingInProduction(SparkTheDefinitiveGuide)_online/)
 
