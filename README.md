@@ -68,6 +68,4 @@ Part VI. Advanced Analytics and Machine Learning
 如果你觉得本系列文章对你有帮助亦或愿意对我的开源付出进行支持，可以对我的本系列文章打赏，毕竟开源不易，由衷感谢你的关注与支持！！！
 
 
-![WeChatImage_ReceiveMoney_Code](https://snaildove.github.io/images/WeChatImage_ReceiveMoney_Code.jpg)
-
-<img src="https://snaildove.github.io/images/WeChatImage_ReceiveMoney_Code.jpg" alt="1" style="zoom:68%;" />
+<img src="https://snaildove.github.io/images/WeChatImage_ReceiveMoney_Code.jpg" alt="1" style="zoom:40%;"/>
