@@ -1,4 +1,4 @@
-![Spark权威指南英文封面](http://q6gm8fomw.bkt.clouddn.com/SparkTheDefinitiveGuide/Spark权威指南封面.jpg)
+![Spark权威指南英文封面](http://q83p23d9i.bkt.clouddn.com/SparkTheDefinitiveGuide/Spark权威指南封面.jpg)
 
 ### 前言
 
