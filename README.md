@@ -1,4 +1,4 @@
-                                  由于博客是gitpage页面，最近gitpage被抢了，也就是所有的形如 https://xxx.github.io 的网址都需要科学上网才能访问
+> 由于博客是gitpage页面，最近gitpage被抢了，也就是所有的形如 https://xxx.github.io 的网址都需要科学上网才能访问
 
 ![Spark权威指南英文封面](http://qhimw3wxz.hn-bkt.clouddn.com/SparkTheDefinitiveGuide/Spark权威指南封面.jpg)
 
