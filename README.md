@@ -1,4 +1,4 @@
-![Spark权威指南英文封面](http://qe9w7biqk.bkt.clouddn.com/SparkTheDefinitiveGuide/Spark权威指南封面.jpg)
+![Spark权威指南英文封面](http://qhimw3wxz.hn-bkt.clouddn.com/SparkTheDefinitiveGuide/Spark权威指南封面.jpg)
 
 ### 前言
 
@@ -8,7 +8,7 @@
 
 2018年2月第一版
 
-![image-20200212161419538](http://qe9w7biqk.bkt.clouddn.com/SparkTheDefinitiveGuide//image-20200212161419538.png)
+![image-20200212161419538](http://qhimw3wxz.hn-bkt.clouddn.com/SparkTheDefinitiveGuide//image-20200212161419538.png)
 
 ### **翻译进度**
 
