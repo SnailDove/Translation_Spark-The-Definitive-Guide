@@ -1,6 +1,6 @@
 > 由于博客是gitpage页面，最近gitpage被抢了，也就是所有的形如 https://xxx.github.io 的网址都需要科学上网才能访问
 
-![Spark权威指南英文封面](http://qhimw3wxz.hn-bkt.clouddn.com/SparkTheDefinitiveGuide/Spark权威指南封面.jpg)
+![Spark权威指南英文封面](./Spark权威指南封面.jpg)
 
 ### 前言
 
@@ -10,7 +10,7 @@
 
 2018年2月第一版
 
-![image-20200212161419538](http://qhimw3wxz.hn-bkt.clouddn.com/SparkTheDefinitiveGuide//image-20200212161419538.png)
+![image-20200212161419538](./image-20200212161419538.png)
 
 ### **翻译进度**
 
@@ -70,4 +70,4 @@ Part VI. Advanced Analytics and Machine Learning
 如果你觉得本系列文章对你有帮助亦或愿意对我的开源付出进行支持，可以对我的本系列文章打赏，毕竟开源不易，由衷感谢你的关注与支持！！！
 
 
-![wechat pay](https://snaildove.github.io/images/WeChatImage_ReceiveMoney_Code.jpg)
+![wechat pay](./WeChatImage_ReceiveMoney_Code.jpg)
