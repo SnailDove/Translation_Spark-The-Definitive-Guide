@@ -1,4 +1,4 @@
-> 由于博客是gitpage页面，最近gitpage被抢了，也就是所有的形如 https://xxx.github.io 的网址都需要科学上网才能访问
+> 由于博客是gitpage页面，最近gitpage被抢了，也就是所有的形如 https://xxx.github.io 的网址都需要科学上网才能访问，由于图片使用国内图床存储，然而gitpage属于外面世界，网络模式设置为：全局模式，才能完全加载。
 
 ![Spark权威指南英文封面](./Spark权威指南封面.jpg)
 
