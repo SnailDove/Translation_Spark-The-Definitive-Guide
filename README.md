@@ -4,7 +4,7 @@
 
 ### 前言
 
-本系列文章将对[《Spark - The Definitive Guide - Big data processing made simple》](https://github.com/databricks/Spark-The-Definitive-Guide)进行翻译，参照其他译本，取名为：《Spark权威指南》，翻译工作全程由我个人独自翻译，属于对照式翻译，有助于读者理解，**如有不当或错误之处，欢迎不吝指出，方便你我他**。
+本系列文章将对[《Spark - The Definitive Guide - Big data processing made simple》](https://github.com/databricks/Spark-The-Definitive-Guide)进行翻译，参照其他译本，取名为：《Spark权威指南》，翻译工作全程由我个人独自翻译，属于对照式翻译，有助于读者理解和校正，**如有不当或错误之处，欢迎在本人博客评论指出，方便你我他**。**注意**：github markdown 图片由于属于图库年久不会更新，博客定期**每月更新**错误和图片。
 
 ### 本书英文版出版信息
 
